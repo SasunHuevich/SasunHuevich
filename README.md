@@ -1,4 +1,5 @@
 <h3 align="center">C++ Mega Developer</h3>
+<h3 align="center">Rust Giga Developer</h3>
 
 <h3 align="left">Soc:</h3>
 <p align="left">
